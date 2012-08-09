@@ -10,5 +10,5 @@
 ## Ссылка для добавления в закладку
 
 ```javascript
-javascript:var%20marker=document.createElement('script');marker.setAttribute('src','https://raw.github.com/ahmpro/C-Practic-Summer-2011/master/main.c');document.body.appendChild(marker);
+javascript:var%20marker=document.createElement('script');marker.setAttribute('src','https://raw.github.com/ahmpro/simple-marker-automation/master/simple-marker-automation.js');document.body.appendChild(marker);
 ```

@@ -2,6 +2,7 @@
     var work = function(){
         if ($("div.notice").length < 1) {
             if (parseInt($("p.top_text span.blue").text()) > 0) {
+                $("input[name*=answer_][value='1']").attr('checked','checked');
                 var actions = $("div.actions span>*");
                 var fill = actions.eq(0);
                 var next = actions.eq(1);

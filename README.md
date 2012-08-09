@@ -10,5 +10,5 @@
 ## Ссылка для добавления в закладку
 
 ```javascript
-javascript:var%20marker=document.createElement('script');marker.setAttribute('src','https://raw.github.com/ahmpro/simple-marker-automation/master/simple-marker-automation.js');document.body.appendChild(marker);
+javascript:var%20marker=document.createElement('script');marker.setAttribute('type','text/javascript');marker.setAttribute('src','https://raw.github.com/ahmpro/simple-marker-automation/master/simple-marker-automation.js');document.body.appendChild(marker);
 ```
